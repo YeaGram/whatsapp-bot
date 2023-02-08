@@ -1,0 +1,11 @@
+2023/02/08-18:54:52.261 3f74 Reusing MANIFEST D:\XAMPP\htdocs\Belajar\JAVASCRIPT\~Project\whatsapp-sticker-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/08-18:54:52.262 3f74 Recovering log #28
+2023/02/08-18:54:52.396 3f74 Reusing old log D:\XAMPP\htdocs\Belajar\JAVASCRIPT\~Project\whatsapp-sticker-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000028.log 
+2023/02/08-18:55:04.170 2ea8 Level-0 table #34: started
+2023/02/08-18:55:04.200 2ea8 Level-0 table #34: 1255964 bytes OK
+2023/02/08-18:55:04.201 2ea8 Delete type=0 #28
+2023/02/08-18:55:05.181 2ea8 Compacting 1@1 + 2@2 files
+2023/02/08-18:55:05.261 2ea8 Generated table #35@1: 39501 keys, 2248539 bytes
+2023/02/08-18:55:05.280 2ea8 Generated table #36@1: 12778 keys, 365970 bytes
+2023/02/08-18:55:05.280 2ea8 Compacted 1@1 + 2@2 files => 2614509 bytes
+2023/02/08-18:55:05.280 2ea8 compacted to: files[ 0 0 2 0 0 0 0 ]
