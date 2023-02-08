@@ -1,2 +1,5 @@
-node_modules/
-.env
+node_modules
+whatsapp-session*.json
+package-lock.json
+downloaded-media/
+.wwebjs_auth
